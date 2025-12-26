@@ -22,4 +22,4 @@ https://end-to-endnextwordpredictionlstmgru-gzp5jheeuytpzx8rknm2pp.streamlit.app
 
 Sample:
 
-<img src="assets/End-to-End_Next_Word_Prediction_LSTM_GRU/Screenshot 2025-12-26 005656.png" alt="Sample" width="780"/>
+![Sample](https://github.com/shreeyashl333/Assets/blob/main/End-to-End_Next_Word_Prediction_LSTM_GRU/Screenshot%202025-12-26%20005656.png)
