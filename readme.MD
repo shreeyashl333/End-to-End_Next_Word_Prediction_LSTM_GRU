@@ -19,3 +19,7 @@ This project aims to develop a deep learning model for predicting the next word 
 
 Link to the app : 
 https://end-to-endnextwordpredictionlstmgru-gzp5jheeuytpzx8rknm2pp.streamlit.app/
+
+Sample:
+
+<img src="assets/End-to-End_Next_Word_Prediction_LSTM_GRU/Screenshot 2025-12-26 005656.png" alt="Sample" width="780"/>
