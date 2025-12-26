@@ -1,4 +1,4 @@
-## Project Description: Next Word Prediction Using LSTM
+## Project Description: Next Word Prediction Using LSTM and GRU
 #### Project Overview:
 
 This project aims to develop a deep learning model for predicting the next word in a given sequence of words. The model is built using Long Short-Term Memory (LSTM) networks, which are well-suited for sequence prediction tasks. The project includes the following steps:
@@ -14,3 +14,7 @@ This project aims to develop a deep learning model for predicting the next word 
 5- Model Evaluation: The model is evaluated using a set of example sentences to test its ability to predict the next word accurately.
 
 6- Deployment: A Streamlit web application is developed to allow users to input a sequence of words and get the predicted next word in real-time.
+
+
+
+LINK to the app : https://end-to-endnextwordpredictionlstmgru-gzp5jheeuytpzx8rknm2pp.streamlit.app/
