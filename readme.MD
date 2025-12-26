@@ -17,4 +17,5 @@ This project aims to develop a deep learning model for predicting the next word 
 
 
 
-LINK to the app : https://end-to-endnextwordpredictionlstmgru-gzp5jheeuytpzx8rknm2pp.streamlit.app/
+Link to the app : 
+https://end-to-endnextwordpredictionlstmgru-gzp5jheeuytpzx8rknm2pp.streamlit.app/
